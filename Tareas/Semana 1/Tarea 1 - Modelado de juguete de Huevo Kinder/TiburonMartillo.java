@@ -1,6 +1,6 @@
 //package Semana1.Tareas.Tarea1;
 
-public class TibutonMartillo {
+public class TiburonMartillo {
     // Atributos
     private double peso, longitud, anchura, fuerza, velocidadNadar;
     private String nombre, color;
